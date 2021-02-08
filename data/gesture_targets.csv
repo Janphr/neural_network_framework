@@ -1,0 +1,14 @@
+start,end,target_id,gesture_label
+0,4060,0,none
+4060,4790,1,swipe_left
+4790,12930,0,none
+12930,13560,1,swipe_left
+13560,24765,0,none
+24765,25485,1,swipe_left
+25485,34705,0,none
+34705,35365,1,swipe_left
+35365,45555,0,none
+45555,46415,1,swipe_left
+46415,55665,0,none
+55665,56415,1,swipe_left
+56415,59920,0,none
